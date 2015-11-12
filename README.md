@@ -1,4 +1,7 @@
-An auto-update system has two parts: a client which polls for updates at a specified interval, and a server which publishes them.
+An auto-update system has two parts: a client which polls 
+for updates at a specified interval, and a server which 
+publishes them. The client downloads updates, installs them,
+switches versions and restarts the app on a new version.
 
 ## Goals
 
